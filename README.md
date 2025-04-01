@@ -26,6 +26,9 @@ I’m also the co-founder of ISAAC, a startup leveraging data enrichment to enha
 The best projects I’ve made/worked on are in **private repositories**, but I’m actively working on sharing more **open-source contributions** to showcase my expertise. 
 Stay tuned! 🤙🏽
 
+
+👉 Feel free to check out my personal site: [francescocipolla.com](https://www.francescocipolla.com/)
+
 <!--
 **cipollafrancesco/cipollafrancesco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
