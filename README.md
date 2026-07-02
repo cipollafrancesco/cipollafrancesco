@@ -1,45 +1,21 @@
-### About Me 👨‍💻  
+## Hi, I'm Francesco 👋
 
-Hey there! 👋  
-I'm **Francesco**, a 27-year-old Frontend Engineer from Italy with a passion for building **high-quality, scalable web applications**.  
+Senior Frontend Engineer from Italy with 8+ years of experience building scalable, high-traffic web applications with React and TypeScript. Wherever there's JavaScript, I can get my hands dirty: from frontend to Node.js backends, and even React Native projects.
 
-### 👨‍💻 What I Do  
-I'm a **Senior Frontend Engineer**, specializing in **React**, **TypeScript**, and modern JavaScript frameworks. 
-My work is driven by a focus on **UI/UX design**, performance optimization, and crafting seamless user experiences.  
+### What I do
 
-💼 **Experience:**  
-- Currently working on **FIFA+**, the official streaming platform of FIFA, where I’ve tackled challenges like performance optimization, analytics integration, and modernizing the tech stack.  
-- Previously contributed to **CHILI**, a VOD content streaming platform, and ventured into the **Insurtech world**, building reliable and scalable solutions.  
+I currently work on **FIFA+**, FIFA's official streaming platform, where I focus on performance optimization, analytics integration, and modernizing the tech stack. Before that I built streaming experiences at **CHILI** (VOD platform) and reliable, scalable products in the insurtech space.
 
-⚡ **Strengths:**  
-I excel in addressing **technical debt**, promoting **innovation**, and solving **complex problems** for high-traffic platforms.  
+I take a product-minded approach: I care about UI/UX, performance, and the architecture decisions that keep large codebases healthy. Tackling technical debt on high-traffic platforms is where I do my best work.
 
-### 🌍 Outside of Work  
-When I’m not coding, I’m either:  
-- Exploring new places, activities, or ideas.  
-- Picking up new skills (right now, I’m learning **kitesurfing** 🏄).  
+I work AI-enhanced: I integrate AI tools into my daily workflow to boost productivity and delivery speed, without compromising on code quality.
 
-### 🚀 Entrepreneurial Ventures  
-I’m also the co-founder of ISAAC, a startup leveraging data enrichment to enhance advertisement performance. 🚀
+### Beyond the day job
 
-⚠️ **Disclaimer:**  
-The best projects I’ve made/worked on are in **private repositories**, but I’m actively working on sharing more **open-source contributions** to showcase my expertise. 
-Stay tuned! 🤙🏽
+You'll find me travelling, playing basketball, or picking up whatever new hobby has caught my attention lately (right now it's kitesurfing).
 
+Most of my professional work lives in private repositories, but I'll gradually be publishing more open source.
 
-👉 Feel free to check out my personal site: [francescocipolla.com](https://www.francescocipolla.com/)
+### Get in touch
 
-<!--
-**cipollafrancesco/cipollafrancesco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[francescocipolla.com](https://www.francescocipolla.com/) · [LinkedIn](https://linkedin.com/in/cipollafrancesco)
